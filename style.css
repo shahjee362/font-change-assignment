@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 8pt;
+    background-color: rgb(201, 173, 138);
+
+}
+.two{
+    font-family: 'Monofett', monospace;
+    text-align: center;
+    font-size: 12pt;
+    background-color: rgb(206, 234, 242);
+    /* height: 50px; */
+
+}
+.three{
+    font-family: 'Handjet', cursive;
+    text-align: center;
+    font-size: 16pt;
+    background-color: rgb(155, 239, 243);
+
+}
+.four{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 22pt;
+    background-color: rgb(132, 218, 240);
+
+}
+.five{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    font-size: 18pt;
+    background-color: rgb(69, 210, 238);
+
+}
+
+
+.seven{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 14pt;
+    background-color: rgb(5, 169, 210);
+
+}
+.eight{
+    font-family: 'Sofia', cursive;
+    text-align: center;
+    font-size: 34pt;
+    background-color: rgb(24, 159, 182);
+
+
+}
+.nine{
+    font-family: 'Bungee Inline', cursive;
+    text-align: center;
+    font-size: 33pt;
+    background-color: rgba(10, 153, 169, 0.829);
+
+}
+.ten{
+    font-family: 'Mystery Quest', cursive;
+    text-align: center;
+    font-size: 55pt;
+    background-color: rgb(26, 153, 179);
+
+}
+.eleven{
+    font-family: 'Belleza', sans-serif;
+    text-align: center;
+    font-size: 60pt;
+    background-color: rgb(15, 90, 114);
+
+}
+.tweleve{
+    font-family: 'Rubik Moonrocks', cursive;
+    text-align: center;
+    font-size: 48pt;
+    background-color: rgba(72, 92, 238, 0.869);
+    
+
+}
+.thirteen{
+    font-family: 'Gantari', sans-serif;
+    text-align: center;
+    font-size: 60pt;
+    background-color: rgb(9, 79, 120);
+
+}
+.fourteen{
+    font-family: 'Dongle', sans-serif;
+    text-align: center;
+    font-size: 80pt;
+    background-color: rgb(7, 64, 118);
+
+}
+.fifiteen{
+    text-align: center;
+    font-size: 85pt;
+    background-color: rgb(23, 51, 134);
+
+}
